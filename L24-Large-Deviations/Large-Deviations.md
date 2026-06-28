@@ -33,7 +33,7 @@ $$
 \Pr(|R-\mathbb E[R]|\ge x)\le\frac{\mathrm{Var}(R)}{x^2}
 $$
 *推论*：$\Pr(|R-\mathbb E[R]|\ge c\sigma(R))\le\frac{1}{c^2}$
-随机变量偏离均值的程度收到方差的限制
+随机变量偏离均值的程度受到方差的限制
 >Proof.
 >使用 Markov 定理 证明
 
